@@ -10,7 +10,7 @@ Input the co-ordinates to calculate the distance between them.
 ### Step 3: 
 Substitute the values in the distance formula 
 
- ![formula](/formula.jpg)
+ ![for](formula.png)
 ### Step 4: 
 Print the solution.
 ### Step 5: 
@@ -19,7 +19,7 @@ End the program.
 ### PROGRAM:
 ~~~
 #Program to find the distance between two points.
-#Developed by: Suwetha M
+#Developed by: Swetha M
 #Register Number: 21006216
 x1,x2=10,6
 y1,y2=4,2
