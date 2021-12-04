@@ -20,7 +20,7 @@ End the program.
 ~~~
 #Program to find the distance between two points.
 #Developed by: Suwetha M
-#RegisterNumber: 21006216
+#Register Number: 21006216
 x1,x2=10,6
 y1,y2=4,2
 import math
